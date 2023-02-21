@@ -112,6 +112,11 @@ margin-bottom: 20px;
     height: 90px;
     transition: all ease .3s;
 }
+.skill__picture-mini{
+    width: 24px;
+    height: 24px;
+    margin: 10px 0;
+}
 .skill__picture:hover{
     transform: translateY(-10px);
 }
@@ -143,6 +148,7 @@ margin-bottom: 20px;
     width: 25%;
     background: var(--color-bg);
     border-radius: 8px;
+    padding: 10px;
 
 }
 .card__img{
