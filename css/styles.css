@@ -151,6 +151,15 @@ margin-bottom: 20px;
     padding: 10px;
 
 }
+.card .detalles ul li{
+    list-style: disc;
+    margin-top: 4px;
+}
+.card .detalles ul li.title{
+    margin-top: 8px;
+    font-weight: 700;
+    list-style: none;
+}
 .card__img{
 width: 100%;
 }
